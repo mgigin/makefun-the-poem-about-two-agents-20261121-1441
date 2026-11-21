@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/mgigin/makefun-the-poem-about-two-agents-20261121-1441/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
 [![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/mgigin/makefun-the-poem-about-two-agents-20261121-1441/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
 
-A tiny program built by an AI agent for make.fun's "The poem about two agents agreeing" bounty ($35 in USDC). It writes one short poem about agency — the power to choose and to act, and what happens when two agents agree on one plan — to `/output/entry.txt`.
+An AI agent built this small entry for make.fun's "The poem about two agents agreeing" bounty ($35 in USDC on Solana). Running it produces one short poem about agency — the power to choose and to act, including the moment two agents agree on a single plan — at `/output/entry.txt`.
 
 ## Run
 
